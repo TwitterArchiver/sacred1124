@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059958715361710080",
+        "3_2059958721170845696"
+      ]
+    },
+    "author_id": "1902512265301258243",
+    "conversation_id": "2059958724299735535",
+    "created_at": "2026-05-28T11:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059958724299735535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OY5hNKd7CM",
+          "end": 53,
+          "expanded_url": "https://x.com/sacred1124/status/2059958724299735535/photo/1",
+          "media_key": "3_2059958715361710080",
+          "start": 30,
+          "url": "https://t.co/OY5hNKd7CM"
+        },
+        {
+          "display_url": "pic.x.com/OY5hNKd7CM",
+          "end": 53,
+          "expanded_url": "https://x.com/sacred1124/status/2059958724299735535/photo/1",
+          "media_key": "3_2059958721170845696",
+          "start": 30,
+          "url": "https://t.co/OY5hNKd7CM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059958724299735535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这鸡哥也是逆天 把meng夺舍了是吧 顺带一提🐔站怎么炸了 https://t.co/OY5hNKd7CM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059958715361710080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZxiZka0AAgBf0.jpg",
+        "width": 971
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059958721170845696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZxivNbMAAQ6dH.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059958715361710080",
+            "3_2059958721170845696"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2059958724299735535",
+        "created_at": "2026-05-28T11:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059958724299735535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OY5hNKd7CM",
+              "end": 53,
+              "expanded_url": "https://x.com/sacred1124/status/2059958724299735535/photo/1",
+              "media_key": "3_2059958715361710080",
+              "start": 30,
+              "url": "https://t.co/OY5hNKd7CM"
+            },
+            {
+              "display_url": "pic.x.com/OY5hNKd7CM",
+              "end": 53,
+              "expanded_url": "https://x.com/sacred1124/status/2059958724299735535/photo/1",
+              "media_key": "3_2059958721170845696",
+              "start": 30,
+              "url": "https://t.co/OY5hNKd7CM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059958724299735535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这鸡哥也是逆天 把meng夺舍了是吧 顺带一提🐔站怎么炸了 https://t.co/OY5hNKd7CM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 85,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 62,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 89,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

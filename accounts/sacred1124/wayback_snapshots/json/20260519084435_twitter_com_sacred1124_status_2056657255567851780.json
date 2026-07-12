@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2056240794852573440",
+    "created_at": "2026-05-19T08:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056657255567851780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056657255567851780",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056240794852573440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 新康泰克的味道相对没那么苦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 745,
+        "media_key": "3_2056239034100563968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk6gdDbQAAVDV7.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2844,
+        "media_key": "3_2056239034314469376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk6gd2bMAALf7O.jpg",
+        "width": 1260
+      },
+      {
+        "height": 762,
+        "media_key": "3_2056239886089515008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk7SC9a8AAti1b.jpg",
+        "width": 1107
+      },
+      {
+        "height": 748,
+        "media_key": "3_2056239886458634240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIk7SEVbQAA4SIl.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2056240794852573440",
+        "created_at": "2026-05-19T08:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056657255567851780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056657255567851780",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056240794852573440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 新康泰克的味道相对没那么苦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056239034100563968",
+            "3_2056239034314469376",
+            "3_2056239886089515008",
+            "3_2056239886458634240"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2056240794852573440",
+        "created_at": "2026-05-18T05:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056240794852573440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iw72LiLra0",
+              "end": 176,
+              "expanded_url": "https://x.com/Lomyral114514/status/2056240794852573440/photo/1",
+              "media_key": "3_2056239034100563968",
+              "start": 153,
+              "url": "https://t.co/iw72LiLra0"
+            },
+            {
+              "display_url": "pic.x.com/iw72LiLra0",
+              "end": 176,
+              "expanded_url": "https://x.com/Lomyral114514/status/2056240794852573440/photo/1",
+              "media_key": "3_2056239034314469376",
+              "start": 153,
+              "url": "https://t.co/iw72LiLra0"
+            },
+            {
+              "display_url": "pic.x.com/iw72LiLra0",
+              "end": 176,
+              "expanded_url": "https://x.com/Lomyral114514/status/2056240794852573440/photo/1",
+              "media_key": "3_2056239886089515008",
+              "start": 153,
+              "url": "https://t.co/iw72LiLra0"
+            },
+            {
+              "display_url": "pic.x.com/iw72LiLra0",
+              "end": 176,
+              "expanded_url": "https://x.com/Lomyral114514/status/2056240794852573440/photo/1",
+              "media_key": "3_2056239886458634240",
+              "start": 153,
+              "url": "https://t.co/iw72LiLra0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056240794852573440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1004,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来还债了……\n\np1 新康泰克的愚昧含伪麻黄碱。药效大体上是没有区别的，就是如果体质对ne敏感的话可能会剧烈兴奋(\np2 2t试试看有没有幻？没有的话加到3-4t试试，最好能保持1周的cd。不影响。\np3 两周\np4 低剂量的bdo通常被认为比酒精更具娱乐价值，具备更强的躯体欣快与社交增益，且药效更干净 https://t.co/iw72LiLra0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 72,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 490,
+          "like_count": 3579,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

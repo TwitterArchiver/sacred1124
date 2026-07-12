@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054964585145532420"
+      ],
+      "media_source_tweet_id": [
+        "2054964587683008527"
+      ]
+    },
+    "author_id": "1902512265301258243",
+    "conversation_id": "2055524846348763197",
+    "created_at": "2026-05-16T05:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T06:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055524846348763197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2047499889094123520",
+          "start": 3,
+          "username": "yn_xxxjkjk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Un6BCGN0r3",
+          "end": 130,
+          "expanded_url": "https://x.com/yn_xxxjkjk/status/2054964587683008527/photo/1",
+          "media_key": "3_2054964585145532420",
+          "start": 107,
+          "url": "https://t.co/Un6BCGN0r3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055524846348763197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054964587683008527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yn_xxxjkjk: 顺带一提，含有右美沙芬的那一款抗抑郁药叫Auvelity，最大的卖点是治疗重度抑郁症一周内就可以见效，已经被美国的FDA认可了。一片含有45mg的右美沙芬。还有105g的安非他酮。 https://t.co/Un6BCGN0r3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "3_2054964585145532420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISzZwubgAQW1sM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054964585145532420"
+          ],
+          "media_source_tweet_id": [
+            "2054964587683008527"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2055524846348763197",
+        "created_at": "2026-05-16T05:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055524846348763197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2047499889094123520",
+              "start": 3,
+              "username": "yn_xxxjkjk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Un6BCGN0r3",
+              "end": 130,
+              "expanded_url": "https://x.com/yn_xxxjkjk/status/2054964587683008527/photo/1",
+              "media_key": "3_2054964585145532420",
+              "start": 107,
+              "url": "https://t.co/Un6BCGN0r3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055524846348763197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054964587683008527",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yn_xxxjkjk: 顺带一提，含有右美沙芬的那一款抗抑郁药叫Auvelity，最大的卖点是治疗重度抑郁症一周内就可以见效，已经被美国的FDA认可了。一片含有45mg的右美沙芬。还有105g的安非他酮。 https://t.co/Un6BCGN0r3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054964585145532420"
+          ]
+        },
+        "author_id": "2047499889094123520",
+        "conversation_id": "2054964587683008527",
+        "created_at": "2026-05-14T16:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054964587683008527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Un6BCGN0r3",
+              "end": 114,
+              "expanded_url": "https://x.com/yn_xxxjkjk/status/2054964587683008527/photo/1",
+              "media_key": "3_2054964585145532420",
+              "start": 91,
+              "url": "https://t.co/Un6BCGN0r3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054964587683008527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 7688,
+          "like_count": 143,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "顺带一提，含有右美沙芬的那一款抗抑郁药叫Auvelity，最大的卖点是治疗重度抑郁症一周内就可以见效，已经被美国的FDA认可了。一片含有45mg的右美沙芬。还有105g的安非他酮。 https://t.co/Un6BCGN0r3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 |提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 50,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 27,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 55,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "YN2.0",
+        "pinned_tweet_id": "2054935095430254613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 140,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

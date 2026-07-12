@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056655440008916992"
+      ]
+    },
+    "author_id": "1902512265301258243",
+    "conversation_id": "2056655442680660059",
+    "created_at": "2026-05-19T08:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056655442680660059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sdOn194ZKh",
+          "end": 29,
+          "expanded_url": "https://x.com/sacred1124/status/2056655442680660059/photo/1",
+          "media_key": "3_2056655440008916992",
+          "start": 6,
+          "url": "https://t.co/sdOn194ZKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056655442680660059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "右美沙芬娘 https://t.co/sdOn194ZKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2056655440008916992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq1Od8bMAAvv1a.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056655440008916992"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2056655442680660059",
+        "created_at": "2026-05-19T08:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056655442680660059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdOn194ZKh",
+              "end": 29,
+              "expanded_url": "https://x.com/sacred1124/status/2056655442680660059/photo/1",
+              "media_key": "3_2056655440008916992",
+              "start": 6,
+              "url": "https://t.co/sdOn194ZKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056655442680660059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬娘 https://t.co/sdOn194ZKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 72,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

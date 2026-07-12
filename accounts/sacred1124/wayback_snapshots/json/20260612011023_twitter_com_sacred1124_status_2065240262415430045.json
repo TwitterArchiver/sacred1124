@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2064437721586905260",
+    "created_at": "2026-06-12T01:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065240262415430045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1999045703935614976",
+          "start": 0,
+          "username": "Qiu4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065240262415430045",
+    "in_reply_to_user_id": "1999045703935614976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064437721586905260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu4u 吃饭或者直接睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2064437721586905260",
+        "created_at": "2026-06-12T01:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065240262415430045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1999045703935614976",
+              "start": 0,
+              "username": "Qiu4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065240262415430045",
+        "in_reply_to_user_id": "1999045703935614976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064437721586905260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu4u 吃饭或者直接睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999045703935614976",
+        "conversation_id": "2064437721586905260",
+        "created_at": "2026-06-09T20:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064437721586905260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064437721586905260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的普瑞巴林下机药是什么啊 我要晕死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 官号 @Psycho_Wiki · 提问箱 https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 108,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 85,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 105,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T09:17:12.000Z",
+        "description": "我是小秋/ED 双相二型已被上报/我o我割/求大家和我互fo！/English Krean ok/地雷系と繋がりたい/27🇰🇷留子",
+        "id": "1999045703935614976",
+        "location": "Kanagawa-ken, Japan",
+        "name": "用你笑容为我祭奠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002838039543136256/3OmqFFrp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 161,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 428
+        },
+        "username": "Qiu4u",
+        "verified": false
+      }
+    ]
+  }
+}

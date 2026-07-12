@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068236887022804992"
+      ]
+    },
+    "author_id": "1902512265301258243",
+    "conversation_id": "2068236890734797114",
+    "created_at": "2026-06-20T07:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T08:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068236890734797114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSXusaxnZU",
+          "end": 35,
+          "expanded_url": "https://x.com/sacred1124/status/2068236890734797114/photo/1",
+          "media_key": "3_2068236887022804992",
+          "start": 12,
+          "url": "https://t.co/fSXusaxnZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068236890734797114",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "西北扛把子（bushi https://t.co/fSXusaxnZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2068236887022804992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPafaJaoAAXiSk.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068236887022804992"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2068236890734797114",
+        "created_at": "2026-06-20T07:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T08:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068236890734797114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSXusaxnZU",
+              "end": 35,
+              "expanded_url": "https://x.com/sacred1124/status/2068236890734797114/photo/1",
+              "media_key": "3_2068236887022804992",
+              "start": 12,
+              "url": "https://t.co/fSXusaxnZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068236890734797114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西北扛把子（bushi https://t.co/fSXusaxnZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "分身：@overdose_six",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "overdose_six"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190420056891392/ZTAVXIDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 114,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 149
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

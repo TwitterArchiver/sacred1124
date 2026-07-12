@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2061678109796012064",
+    "created_at": "2026-06-03T14:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062187035230900559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1872269942642667520",
+          "start": 0,
+          "username": "Sozyuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062187035230900559",
+    "in_reply_to_user_id": "1872269942642667520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061678109796012064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sozyuku 64"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2061678099742208000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyNTvhWMAAyXHi.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2061678109796012064",
+        "created_at": "2026-06-03T14:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062187035230900559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1872269942642667520",
+              "start": 0,
+              "username": "Sozyuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062187035230900559",
+        "in_reply_to_user_id": "1872269942642667520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061678109796012064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sozyuku 64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061678099742208000"
+          ]
+        },
+        "author_id": "1872269942642667520",
+        "conversation_id": "2061678109796012064",
+        "created_at": "2026-06-02T05:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061678109796012064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfuHuxeIRt",
+              "end": 283,
+              "expanded_url": "https://x.com/Sozyuku/status/2061678109796012064/photo/1",
+              "media_key": "3_2061678099742208000",
+              "start": 260,
+              "url": "https://t.co/IfuHuxeIRt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061678109796012064",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 2483129,
+          "like_count": 9436,
+          "quote_count": 86,
+          "reply_count": 17139,
+          "retweet_count": 902
+        },
+        "reply_settings": "everyone",
+        "text": "29–70 arasından şanslı bir numara seçin\n\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n\n✨ 15 numara $1.500’lık bir sürpriz saklıyor\n\n🎉 72 saat içinde 15 kazanan rastgele seçilecek https://t.co/IfuHuxeIRt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 85,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 62,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 99,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T13:15:36.000Z",
+        "description": "“Sözlerimin yükünü kaldıramıyorum...”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sozyuku",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/sozyuku",
+                "start": 0,
+                "url": "https://t.co/5SnFUCIVRJ"
+              }
+            ]
+          }
+        },
+        "id": "1872269942642667520",
+        "name": "Söz Yükü",
+        "pinned_tweet_id": "2031247141348204617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003202162927767552/MVxP1mzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129397,
+          "following_count": 0,
+          "like_count": 85,
+          "listed_count": 45,
+          "media_count": 9788,
+          "tweet_count": 15826
+        },
+        "url": "https://t.co/5SnFUCIVRJ",
+        "username": "Sozyuku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2062094550903222744",
+    "created_at": "2026-06-04T03:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062369777860153422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1612957525368008704",
+          "start": 0,
+          "username": "lQxnUtQxS7WJJkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062369777860153422",
+    "in_reply_to_user_id": "1612957525368008704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062094550903222744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lQxnUtQxS7WJJkz 不一定会死 但会生不如死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2062094550903222744",
+        "created_at": "2026-06-04T03:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062369777860153422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1612957525368008704",
+              "start": 0,
+              "username": "lQxnUtQxS7WJJkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062369777860153422",
+        "in_reply_to_user_id": "1612957525368008704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062094550903222744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lQxnUtQxS7WJJkz 不一定会死 但会生不如死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612957525368008704",
+        "conversation_id": "2062094550903222744",
+        "created_at": "2026-06-03T08:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062094550903222744"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062094550903222744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 85365,
+          "like_count": 2696,
+          "quote_count": 24,
+          "reply_count": 26,
+          "retweet_count": 280
+        },
+        "reply_settings": "everyone",
+        "text": "みんな鬱を甘く見過ぎ\n下手したら死ぬ病気だよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 85,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 62,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 99,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T23:40:40.000Z",
+        "description": "27歳 彼氏に振られました 複数の精神疾患持ち IQ60 軽度知的障害 ASD ADHD傾向 労働出来ない限界社不 元夜職 自死未遂4回程 障害年金 元彼に未練たらたらな女 R8.02.18💔",
+        "id": "1612957525368008704",
+        "name": "Yu-ka 病み 未練垢",
+        "pinned_tweet_id": "1862344683151868147",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 180,
+          "like_count": 1372,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 2300
+        },
+        "username": "lQxnUtQxS7WJJkz",
+        "verified": false
+      }
+    ]
+  }
+}

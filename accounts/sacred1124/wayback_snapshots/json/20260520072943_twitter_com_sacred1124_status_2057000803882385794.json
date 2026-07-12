@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2056842824973422997",
+    "created_at": "2026-05-20T07:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057000803882385794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1879384202342182912",
+          "start": 0,
+          "username": "Wendy5863669311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057000803882385794",
+    "in_reply_to_user_id": "1879384202342182912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056842824973422997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy5863669311 晶哥一直都有 但最近确实是加速管控了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2056842824973422997",
+        "created_at": "2026-05-20T07:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057000803882385794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1879384202342182912",
+              "start": 0,
+              "username": "Wendy5863669311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057000803882385794",
+        "in_reply_to_user_id": "1879384202342182912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056842824973422997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy5863669311 晶哥一直都有 但最近确实是加速管控了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879384202342182912",
+        "conversation_id": "2056842824973422997",
+        "created_at": "2026-05-19T21:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T22:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056842824973422997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sacred1124/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/sacred1124/status/2056813111202779319",
+              "start": 43,
+              "url": "https://t.co/1p3sW6LcW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056842824973422997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056813111202779319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晶哥也不是傻子晶哥肯定刷推特...有啥好东西自己鸟悄的买得了，到处发迟早全鸡巴被禁了 https://t.co/1p3sW6LcW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 83,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 81
+        },
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T04:25:37.000Z",
+        "description": "这里是用来发疯的，熟人刷到求求不要戳破我的面具🥺\nADHD丨ASD丨双相丨休学中丨entp丨割手已经戒了准备戒od",
+        "id": "1879384202342182912",
+        "location": "Taiwan",
+        "name": "梦萱儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958117503093161984/EtiSG1EE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 112,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 42
+        },
+        "username": "Wendy5863669311",
+        "verified": false
+      }
+    ]
+  }
+}

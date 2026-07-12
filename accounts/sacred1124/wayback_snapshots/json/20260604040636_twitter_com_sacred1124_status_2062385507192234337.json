@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2062385507192234337",
+    "created_at": "2026-06-04T04:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062385507192234337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060021902698287104",
+          "start": 3,
+          "username": "Psycho_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062385507192234337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062382074083135973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Psycho_Wiki: 请注意此人为骗子\n用户名：slowline\n真实姓名：凌毅\n\n诈骗账号\nX：xiomngy1176317\nTelegram：slowline01\n\n诈骗事迹简述：花费1800元从花导群内购得管理位提升信任售卖普瑞原粉，目前已有多笔高额交易受害者…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_2062382022144966657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8Nha0aQAEpNg3.jpg",
+        "width": 576
+      },
+      {
+        "height": 1228,
+        "media_key": "3_2062382051920424960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8NjJvbsAAv58g.jpg",
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062382060497760256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8NjpsbcAAFLQG.jpg",
+        "width": 973
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062382071327440896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8NkSCbQAAyVjF.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2062385507192234337",
+        "created_at": "2026-06-04T04:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062385507192234337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060021902698287104",
+              "start": 3,
+              "username": "Psycho_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062385507192234337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062382074083135973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Psycho_Wiki: 请注意此人为骗子\n用户名：slowline\n真实姓名：凌毅\n\n诈骗账号\nX：xiomngy1176317\nTelegram：slowline01\n\n诈骗事迹简述：花费1800元从花导群内购得管理位提升信任售卖普瑞原粉，目前已有多笔高额交易受害者…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062382022144966657",
+            "3_2062382051920424960",
+            "3_2062382060497760256",
+            "3_2062382071327440896"
+          ]
+        },
+        "author_id": "2060021902698287104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062382074083135973",
+        "created_at": "2026-06-04T03:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062382074083135973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/19ZMawQPS4",
+              "end": 193,
+              "expanded_url": "https://x.com/Psycho_Wiki/status/2062382074083135973/photo/1",
+              "media_key": "3_2062382022144966657",
+              "start": 170,
+              "url": "https://t.co/19ZMawQPS4"
+            },
+            {
+              "display_url": "pic.x.com/19ZMawQPS4",
+              "end": 193,
+              "expanded_url": "https://x.com/Psycho_Wiki/status/2062382074083135973/photo/1",
+              "media_key": "3_2062382051920424960",
+              "start": 170,
+              "url": "https://t.co/19ZMawQPS4"
+            },
+            {
+              "display_url": "pic.x.com/19ZMawQPS4",
+              "end": 193,
+              "expanded_url": "https://x.com/Psycho_Wiki/status/2062382074083135973/photo/1",
+              "media_key": "3_2062382060497760256",
+              "start": 170,
+              "url": "https://t.co/19ZMawQPS4"
+            },
+            {
+              "display_url": "pic.x.com/19ZMawQPS4",
+              "end": 193,
+              "expanded_url": "https://x.com/Psycho_Wiki/status/2062382074083135973/photo/1",
+              "media_key": "3_2062382071327440896",
+              "start": 170,
+              "url": "https://t.co/19ZMawQPS4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062382074083135973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "请注意此人为骗子\n用户名：slowline\n真实姓名：凌毅\n\n诈骗账号\nX：xiomngy1176317\nTelegram：slowline01\n\n诈骗事迹简述：花费1800元从花导群内购得管理位提升信任售卖普瑞原粉，目前已有多笔高额交易受害者被跑路。\n\n凌毅在5月23日时还在找人寻求普瑞原粉 ，后续摇身一变称自己已经获得原粉开始诈骗。 https://t.co/19ZMawQPS4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 85,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 62,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 99,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T15:40:04.000Z",
+        "description": "精神药品知识库与药理学百科 💊\n致力于提供准确、客观、可验证的减害信息。\n📩 报告投稿、纠错与合作请私信。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/7HdMcfLcxM"
+              }
+            ]
+          }
+        },
+        "id": "2060021902698287104",
+        "name": "精神药品 Wiki",
+        "pinned_tweet_id": "2060031881526247850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422952122978305/q2xZzfjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 12,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/7HdMcfLcxM",
+        "username": "Psycho_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

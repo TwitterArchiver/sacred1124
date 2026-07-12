@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066378874410459136"
+      ]
+    },
+    "author_id": "1902512265301258243",
+    "conversation_id": "2066378877996577183",
+    "created_at": "2026-06-15T04:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066378877996577183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C98uYkdotw",
+          "end": 31,
+          "expanded_url": "https://x.com/sacred1124/status/2066378877996577183/photo/1",
+          "media_key": "3_2066378874410459136",
+          "start": 8,
+          "url": "https://t.co/C98uYkdotw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066378877996577183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讣告：鸡哥死了 https://t.co/C98uYkdotw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066378874410459136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1Ao1ybYAA2xiL.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066378874410459136"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2066378877996577183",
+        "created_at": "2026-06-15T04:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066378877996577183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C98uYkdotw",
+              "end": 31,
+              "expanded_url": "https://x.com/sacred1124/status/2066378877996577183/photo/1",
+              "media_key": "3_2066378874410459136",
+              "start": 8,
+              "url": "https://t.co/C98uYkdotw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066378877996577183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：鸡哥死了 https://t.co/C98uYkdotw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 官号 @Psycho_Wiki · 提问箱 https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 108,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 85,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 105,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      }
+    ]
+  }
+}

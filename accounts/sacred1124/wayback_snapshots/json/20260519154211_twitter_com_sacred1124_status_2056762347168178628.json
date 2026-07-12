@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2056762347168178628",
+    "created_at": "2026-05-19T15:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056762347168178628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inline_int/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/inline_int/status/2056726424698937765",
+          "start": 30,
+          "url": "https://t.co/scRBzrkAwR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056762347168178628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056726424698937765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道跨圈为什么都喜欢用亚硝酸钠 明明有更好更不痛苦的方式 https://t.co/scRBzrkAwR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056726189025247232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIr1kmkXwAAycIx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2056762347168178628",
+        "created_at": "2026-05-19T15:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056762347168178628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/inline_int/status/2056726424698937765",
+              "start": 30,
+              "url": "https://t.co/scRBzrkAwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056762347168178628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056726424698937765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道跨圈为什么都喜欢用亚硝酸钠 明明有更好更不痛苦的方式 https://t.co/scRBzrkAwR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056726189025247232"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2056726424698937765",
+        "created_at": "2026-05-19T13:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056726424698937765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RHHvy1Zbj5",
+              "end": 30,
+              "expanded_url": "https://x.com/inline_int/status/2056726424698937765/photo/1",
+              "media_key": "3_2056726189025247232",
+              "start": 7,
+              "url": "https://t.co/RHHvy1Zbj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056726424698937765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 747,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我可太难杀了 https://t.co/RHHvy1Zbj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 76,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 70
+        },
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "前世@inlineint /HRT2026.3.9🍥/小证2026.4.12/INTP/已炸柜/家长党/天残党/中度焦虑/中度非典型抑郁/似乎双向/自杀未遂/ODer/高中生/OIer/彩笔音游人rks15.47/计算机狂热爱好者/不键政/看成分互fo/是猫娘喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "inlineint"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inlineint",
+                "end": 23,
+                "expanded_url": "https://ngl.link/inlineint",
+                "start": 0,
+                "url": "https://t.co/llFM5urW6q"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "location": "天国",
+        "name": "int喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045515096600748032/ZOpNMKpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 710,
+          "like_count": 564,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/llFM5urW6q",
+        "username": "inline_int",
+        "verified": true
+      }
+    ]
+  }
+}

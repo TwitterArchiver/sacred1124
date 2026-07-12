@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2063153074131411111",
+    "created_at": "2026-06-06T06:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063153074131411111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060021902698287104",
+          "start": 3,
+          "username": "Psycho_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063153074131411111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063152627349921993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Psycho_Wiki: 关于加巴喷丁为什么会引起腹泻\n\n加巴喷丁会影响神经递质释放，而肠道本身有大量神经系统（肠神经系统），部分人会出现肠蠕动异常，从而导致腹泻。\n\n加巴喷丁的肠道吸收依赖氨基酸转运体，吸收率随剂量升高而饱和，高剂量时未吸收药物增加，可能进一步影响肠道…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2063153074131411111",
+        "created_at": "2026-06-06T06:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063153074131411111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060021902698287104",
+              "start": 3,
+              "username": "Psycho_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063153074131411111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063152627349921993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Psycho_Wiki: 关于加巴喷丁为什么会引起腹泻\n\n加巴喷丁会影响神经递质释放，而肠道本身有大量神经系统（肠神经系统），部分人会出现肠蠕动异常，从而导致腹泻。\n\n加巴喷丁的肠道吸收依赖氨基酸转运体，吸收率随剂量升高而饱和，高剂量时未吸收药物增加，可能进一步影响肠道…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060021902698287104",
+        "conversation_id": "2063152627349921993",
+        "created_at": "2026-06-06T06:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063152627349921993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063152627349921993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于加巴喷丁为什么会引起腹泻\n\n加巴喷丁会影响神经递质释放，而肠道本身有大量神经系统（肠神经系统），部分人会出现肠蠕动异常，从而导致腹泻。\n\n加巴喷丁的肠道吸收依赖氨基酸转运体，吸收率随剂量升高而饱和，高剂量时未吸收药物增加，可能进一步影响肠道功能，从而诱发腹泻。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 85,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 62,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 97,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T15:40:04.000Z",
+        "description": "精神药品知识库与药理学百科 💊\n致力于提供准确、客观、可验证的减害信息。\n📩 报告投稿、纠错与合作请私信。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/7HdMcfLcxM"
+              }
+            ]
+          }
+        },
+        "id": "2060021902698287104",
+        "name": "精神药品 Wiki",
+        "pinned_tweet_id": "2060031881526247850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422952122978305/q2xZzfjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 12,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/7HdMcfLcxM",
+        "username": "Psycho_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

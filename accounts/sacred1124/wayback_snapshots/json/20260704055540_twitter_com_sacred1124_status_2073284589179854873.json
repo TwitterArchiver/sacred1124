@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2073284589179854873",
+    "created_at": "2026-07-04T05:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073284589179854873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060021902698287104",
+          "start": 3,
+          "username": "Psycho_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073284589179854873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073279219027857818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Psycho_Wiki: 近期市场上出现了一种新型解离剂：3-MeO-2'-Oxo-PCP。然而，该物质被命名为 MXP，这造成了混淆，因为此前已存在一种名为 MXP 的物质。该化合物可视为 MXE 的 PCP 类似物，属于近年来日益流行的 2'-Oxo-PCP 系列衍…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2073279215894704128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXEdk-asAAQsfq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2073284589179854873",
+        "created_at": "2026-07-04T05:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073284589179854873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060021902698287104",
+              "start": 3,
+              "username": "Psycho_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073284589179854873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073279219027857818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Psycho_Wiki: 近期市场上出现了一种新型解离剂：3-MeO-2'-Oxo-PCP。然而，该物质被命名为 MXP，这造成了混淆，因为此前已存在一种名为 MXP 的物质。该化合物可视为 MXE 的 PCP 类似物，属于近年来日益流行的 2'-Oxo-PCP 系列衍…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073279215894704128"
+          ]
+        },
+        "author_id": "2060021902698287104",
+        "conversation_id": "2073279219027857818",
+        "created_at": "2026-07-04T05:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073279219027857818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9exQmoGh1",
+              "end": 155,
+              "expanded_url": "https://x.com/Psycho_Wiki/status/2073279219027857818/photo/1",
+              "media_key": "3_2073279215894704128",
+              "start": 132,
+              "url": "https://t.co/W9exQmoGh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073279219027857818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "近期市场上出现了一种新型解离剂：3-MeO-2'-Oxo-PCP。然而，该物质被命名为 MXP，这造成了混淆，因为此前已存在一种名为 MXP 的物质。该化合物可视为 MXE 的 PCP 类似物，属于近年来日益流行的 2'-Oxo-PCP 系列衍生物中的最新成员。 https://t.co/W9exQmoGh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "My life's the worst story told, I'll be this way 'til I'm old.\n分身：@Overdose_Rx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Overdose_Rx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMlkg"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190420056891392/ZTAVXIDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 119,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/bSzFJaMlkg",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T15:40:04.000Z",
+        "description": "精神药品知识库与药理学百科 💊\n致力于提供准确、客观、可验证的减害信息。\n📩 报告投稿、纠错与合作请私信。社群：https://t.co/Tcb3ZXwf5D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/gfchxhnm",
+                "end": 79,
+                "expanded_url": "http://t.me/gfchxhnm",
+                "start": 56,
+                "url": "https://t.co/Tcb3ZXwf5D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/7HdMcfLcxM"
+              }
+            ]
+          }
+        },
+        "id": "2060021902698287104",
+        "name": "精神药品 Wiki",
+        "pinned_tweet_id": "2060031881526247850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422952122978305/q2xZzfjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 20,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/7HdMcfLcxM",
+        "username": "Psycho_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

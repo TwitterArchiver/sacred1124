@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2062118315733274634",
+    "created_at": "2026-06-03T10:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062118315733274634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bui_tu46916/st…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/bui_tu46916/status/2061103867425951851",
+          "start": 135,
+          "url": "https://t.co/90fBIjeSy0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062118315733274634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061103867425951851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沐雨大药师，我还记得你\n一句一句把我拉进高原里\n那些年的原料,你替我们背起\n尿液滴在尿检板上，刑期像雪一样叠起\n你笑着说包过尿检，让oder买起\n多少个深夜回家，我还在夜里OD\n你说过的每句话我都在心里面记起\n后来晶堵过来，我也无所畏惧，\n只可惜我肉体还在看守所拷起。 https://t.co/90fBIjeSy0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2062118315733274634",
+        "created_at": "2026-06-03T10:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062118315733274634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bui_tu46916/st…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/bui_tu46916/status/2061103867425951851",
+              "start": 135,
+              "url": "https://t.co/90fBIjeSy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062118315733274634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061103867425951851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沐雨大药师，我还记得你\n一句一句把我拉进高原里\n那些年的原料,你替我们背起\n尿液滴在尿检板上，刑期像雪一样叠起\n你笑着说包过尿检，让oder买起\n多少个深夜回家，我还在夜里OD\n你说过的每句话我都在心里面记起\n后来晶堵过来，我也无所畏惧，\n只可惜我肉体还在看守所拷起。 https://t.co/90fBIjeSy0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2061103867425951851",
+        "created_at": "2026-05-31T15:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061103867425951851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061103867425951851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "X x大药师，我还记得你\n一句一句把我拉进高原里\n那些年的原料,你替我们背起\n尿液滴在尿检板上，刑期像雪一样叠起\n你笑着说包过尿检，让oder买起\n多少个深夜回家，我还在夜里OD\n你说过的每句话我都在心里面记起\n后来晶堵过来，我也无所畏惧，\n只可惜我肉体还在看守所拷起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 85,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 62,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 99,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "欢迎您的到访｜可能od｜有时产出视频｜看情况回fo",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2047942018316517861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 228,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 707
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2056265930490204438",
+    "created_at": "2026-05-19T08:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056648357423263896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056648357423263896",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056265930490204438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 美金刚和加巴喷丁不要高剂量联用 可能诱发谵妄共济失调"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2056265927398932480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlS92ZaQAAu-25.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1149,
+        "media_key": "3_2056265928019763200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlS94tbYAAU15n.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1087,
+        "media_key": "3_2056265928132968448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlS95IawAAZSiu.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1186,
+        "media_key": "3_2056265928493637632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlS96eaIAAJhGX.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2056265930490204438",
+        "created_at": "2026-05-19T08:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056648357423263896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056648357423263896",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056265930490204438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 美金刚和加巴喷丁不要高剂量联用 可能诱发谵妄共济失调"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056265927398932480",
+            "3_2056265928019763200",
+            "3_2056265928132968448",
+            "3_2056265928493637632"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2056265930490204438",
+        "created_at": "2026-05-18T06:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056265930490204438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bdnTQY8QU0",
+              "end": 160,
+              "expanded_url": "https://x.com/_Shikieiki/status/2056265930490204438/photo/1",
+              "media_key": "3_2056265927398932480",
+              "start": 137,
+              "url": "https://t.co/bdnTQY8QU0"
+            },
+            {
+              "display_url": "pic.x.com/bdnTQY8QU0",
+              "end": 160,
+              "expanded_url": "https://x.com/_Shikieiki/status/2056265930490204438/photo/1",
+              "media_key": "3_2056265928019763200",
+              "start": 137,
+              "url": "https://t.co/bdnTQY8QU0"
+            },
+            {
+              "display_url": "pic.x.com/bdnTQY8QU0",
+              "end": 160,
+              "expanded_url": "https://x.com/_Shikieiki/status/2056265930490204438/photo/1",
+              "media_key": "3_2056265928132968448",
+              "start": 137,
+              "url": "https://t.co/bdnTQY8QU0"
+            },
+            {
+              "display_url": "pic.x.com/bdnTQY8QU0",
+              "end": 160,
+              "expanded_url": "https://x.com/_Shikieiki/status/2056265930490204438/photo/1",
+              "media_key": "3_2056265928493637632",
+              "start": 137,
+              "url": "https://t.co/bdnTQY8QU0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056265930490204438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1272,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 普瑞巴林:克利加巴林效力大概是1:4或者1:5这样子?那就是普瑞600mg≈120–150mg克利这样子\np2 加到70-90mg试试?再没有效果的话就不要o美金刚了吧...效果因人而异\np3 可能会吧...我没买过感康不知道具体有多少氯苯那敏\np4 可以desu! https://t.co/bdnTQY8QU0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 72,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 59
+        },
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的\n我们一定从出生的那天起，就一定在寻找相遇的瞬间。\n\n所以请你笑一下吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki4",
+                "start": 0,
+                "url": "https://t.co/fgmsNgMTNR"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸 提问箱➡️",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2053378863976284363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 942,
+          "like_count": 28538,
+          "listed_count": 1,
+          "media_count": 496,
+          "tweet_count": 4136
+        },
+        "url": "https://t.co/fgmsNgMTNR",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052727487378141184"
+      ],
+      "media_source_tweet_id": [
+        "2052728008084181376"
+      ]
+    },
+    "author_id": "1902512265301258243",
+    "conversation_id": "2054439209554096627",
+    "created_at": "2026-05-13T05:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054439209554096627"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "SKC美術部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898642909576286208",
+          "start": 3,
+          "username": "____speace"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5c5fgwsFQL",
+          "end": 47,
+          "expanded_url": "https://x.com/____speace/status/2052728008084181376/photo/1",
+          "media_key": "3_2052727487378141184",
+          "start": 24,
+          "url": "https://t.co/5c5fgwsFQL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054439209554096627",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 643
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052728008084181376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @____speace: #SKC美術部 https://t.co/5c5fgwsFQL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052727487378141184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzAxiHasAAZSf5.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052727487378141184"
+          ],
+          "media_source_tweet_id": [
+            "2052728008084181376"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2054439209554096627",
+        "created_at": "2026-05-13T05:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054439209554096627"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "SKC美術部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898642909576286208",
+              "start": 3,
+              "username": "____speace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5c5fgwsFQL",
+              "end": 47,
+              "expanded_url": "https://x.com/____speace/status/2052728008084181376/photo/1",
+              "media_key": "3_2052727487378141184",
+              "start": 24,
+              "url": "https://t.co/5c5fgwsFQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054439209554096627",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 643
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052728008084181376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @____speace: #SKC美術部 https://t.co/5c5fgwsFQL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052727487378141184"
+          ]
+        },
+        "author_id": "1898642909576286208",
+        "conversation_id": "2052728008084181376",
+        "created_at": "2026-05-08T12:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052728008084181376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "SKC美術部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5c5fgwsFQL",
+              "end": 31,
+              "expanded_url": "https://x.com/____speace/status/2052728008084181376/photo/1",
+              "media_key": "3_2052727487378141184",
+              "start": 8,
+              "url": "https://t.co/5c5fgwsFQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052728008084181376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 287,
+          "impression_count": 38401,
+          "like_count": 3427,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 643
+        },
+        "reply_settings": "everyone",
+        "text": "#SKC美術部 https://t.co/5c5fgwsFQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "前世:@overdose_six接受药物报告及相关投稿 | 提供免费药物咨询 |提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "overdose_six"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 66,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 43,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 54,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T07:52:10.000Z",
+        "description": "🪐【Mail】hayu03050305@gmail.com \n【skeb】https://t.co/Y1XNyLDXee\n5月着手可能⚪︎ご依頼募集中",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@____speace",
+                "end": 60,
+                "expanded_url": "https://skeb.jp/@____speace",
+                "start": 37,
+                "url": "https://t.co/Y1XNyLDXee"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hayu0305",
+                "end": 23,
+                "expanded_url": "https://lit.link/hayu0305",
+                "start": 0,
+                "url": "https://t.co/1vT37j1W67"
+              }
+            ]
+          }
+        },
+        "id": "1898642909576286208",
+        "location": "日本",
+        "name": "ﾊ𝚈u",
+        "pinned_tweet_id": "2002580882549584010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938865117833125888/o8lRnyAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3724,
+          "following_count": 189,
+          "like_count": 823,
+          "listed_count": 25,
+          "media_count": 125,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/1vT37j1W67",
+        "username": "____speace",
+        "verified": false
+      }
+    ]
+  }
+}

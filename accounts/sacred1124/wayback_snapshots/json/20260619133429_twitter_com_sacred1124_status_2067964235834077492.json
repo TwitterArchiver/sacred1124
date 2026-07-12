@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2067964235834077492",
+    "created_at": "2026-06-19T13:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067964235834077492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdose_six/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/overdose_six/status/2067958045716644199",
+          "start": 36,
+          "url": "https://t.co/XL7Evv3WYy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067964235834077492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067958045716644199",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个号没想到竟然申诉成功了 这个号目前先作为小号吧 互关可以找我都会回 https://t.co/XL7Evv3WYy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1783,
+        "media_key": "3_2067958042218700800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLc4gTboAA6Zzx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2067964235834077492",
+        "created_at": "2026-06-19T13:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067964235834077492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_six/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/overdose_six/status/2067958045716644199",
+              "start": 36,
+              "url": "https://t.co/XL7Evv3WYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067964235834077492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067958045716644199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个号没想到竟然申诉成功了 这个号目前先作为小号吧 互关可以找我都会回 https://t.co/XL7Evv3WYy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067958042218700800"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2067958045716644199",
+        "created_at": "2026-06-19T13:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067958045716644199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JObWKDI3l",
+              "end": 29,
+              "expanded_url": "https://x.com/overdose_six/status/2067958045716644199/photo/1",
+              "media_key": "3_2067958042218700800",
+              "start": 6,
+              "url": "https://t.co/9JObWKDI3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067958045716644199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈复活？ https://t.co/9JObWKDI3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 官号 @Psycho_Wiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Psycho_Wiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 114,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "",
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名Shiina",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 94,
+          "like_count": 11624,
+          "listed_count": 8,
+          "media_count": 720,
+          "tweet_count": 4249
+        },
+        "url": "",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

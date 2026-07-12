@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2069343406837686607",
+    "created_at": "2026-06-23T08:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069343406837686607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2060021902698287104",
+          "start": 3,
+          "username": "Psycho_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069343406837686607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069342325852287343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Psycho_Wiki: 非常兴奋地宣布，我们正式开启了“精神药品知识交流社群”这一激动人心的新篇章！🚀 这是一个汇聚了前沿药理学洞察、临床用药最佳实践以及减害策略的战略性平台，旨在赋能我们的生态系统。我们怀着无比感恩的心情，诚邀各位卓越的医疗从业者、富有远见的研究专家…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2069343406837686607",
+        "created_at": "2026-06-23T08:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069343406837686607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2060021902698287104",
+              "start": 3,
+              "username": "Psycho_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069343406837686607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069342325852287343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Psycho_Wiki: 非常兴奋地宣布，我们正式开启了“精神药品知识交流社群”这一激动人心的新篇章！🚀 这是一个汇聚了前沿药理学洞察、临床用药最佳实践以及减害策略的战略性平台，旨在赋能我们的生态系统。我们怀着无比感恩的心情，诚邀各位卓越的医疗从业者、富有远见的研究专家…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060021902698287104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2069342325852287343",
+        "created_at": "2026-06-23T08:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069342325852287343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Psycho_Wiki/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Psycho_Wiki/status/2069341935635235283",
+              "start": 142,
+              "url": "https://t.co/SdqlXoYdhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069342325852287343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069341935635235283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常兴奋地宣布，我们正式开启了“精神药品知识交流社群”这一激动人心的新篇章！🚀 这是一个汇聚了前沿药理学洞察、临床用药最佳实践以及减害策略的战略性平台，旨在赋能我们的生态系统。我们怀着无比感恩的心情，诚邀各位卓越的医疗从业者、富有远见的研究专家，以及所有致力于精神健康福祉的志同道合 https://t.co/SdqlXoYdhc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "分身：@overdose_six",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "overdose_six"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190420056891392/ZTAVXIDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 116,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T15:40:04.000Z",
+        "description": "精神药品知识库与药理学百科 💊\n致力于提供准确、客观、可验证的减害信息。\n📩 报告投稿、纠错与合作请私信。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/7HdMcfLcxM"
+              }
+            ]
+          }
+        },
+        "id": "2060021902698287104",
+        "name": "精神药品 Wiki",
+        "pinned_tweet_id": "2060031881526247850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060422952122978305/q2xZzfjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 17,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/7HdMcfLcxM",
+        "username": "Psycho_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

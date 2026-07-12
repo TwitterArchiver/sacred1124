@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2065953411674292319",
+    "created_at": "2026-06-15T03:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066361864985145457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066361864985145457",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065953411674292319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 智商税来的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2065953400748138496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu9rA4aYAA83wC.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2065953401138278401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu9rCVbcAEBtWt.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2065953403642257408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu9rLqbIAASvm1.jpg",
+        "width": 800
+      },
+      {
+        "height": 513,
+        "media_key": "3_2065953404342702080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKu9rORbEAAFXPk.jpg",
+        "width": 583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2065953411674292319",
+        "created_at": "2026-06-15T03:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066361864985145457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066361864985145457",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065953411674292319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 智商税来的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065953400748138496",
+            "3_2065953401138278401",
+            "3_2065953403642257408",
+            "3_2065953404342702080"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2065953411674292319",
+        "created_at": "2026-06-14T00:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065953411674292319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0W5FXyJOc",
+              "end": 43,
+              "expanded_url": "https://x.com/neko0202002/status/2065953411674292319/photo/1",
+              "media_key": "3_2065953400748138496",
+              "start": 20,
+              "url": "https://t.co/w0W5FXyJOc"
+            },
+            {
+              "display_url": "pic.x.com/w0W5FXyJOc",
+              "end": 43,
+              "expanded_url": "https://x.com/neko0202002/status/2065953411674292319/photo/1",
+              "media_key": "3_2065953401138278401",
+              "start": 20,
+              "url": "https://t.co/w0W5FXyJOc"
+            },
+            {
+              "display_url": "pic.x.com/w0W5FXyJOc",
+              "end": 43,
+              "expanded_url": "https://x.com/neko0202002/status/2065953411674292319/photo/1",
+              "media_key": "3_2065953403642257408",
+              "start": 20,
+              "url": "https://t.co/w0W5FXyJOc"
+            },
+            {
+              "display_url": "pic.x.com/w0W5FXyJOc",
+              "end": 43,
+              "expanded_url": "https://x.com/neko0202002/status/2065953411674292319/photo/1",
+              "media_key": "3_2065953404342702080",
+              "start": 20,
+              "url": "https://t.co/w0W5FXyJOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065953411674292319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 13867,
+          "like_count": 145,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你褪黑素厂家，你在吃oder血馒头 https://t.co/w0W5FXyJOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 官号 @Psycho_Wiki · 提问箱 https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 108,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 85,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMT9O"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059961828256747520/cvNao5Ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 105,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/bSzFJaMT9O",
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 681,
+          "like_count": 1883,
+          "listed_count": 2,
+          "media_count": 1839,
+          "tweet_count": 4868
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

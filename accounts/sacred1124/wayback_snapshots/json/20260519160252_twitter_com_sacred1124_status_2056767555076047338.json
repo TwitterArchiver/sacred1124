@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2056767555076047338",
+    "created_at": "2026-05-19T16:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T17:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056767555076047338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2056739858505138313",
+          "start": 8,
+          "url": "https://t.co/5TOavXtiiM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056767555076047338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056739858505138313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写了总比没写强 https://t.co/5TOavXtiiM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2056739854206087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABVXsAA_NUi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2056739854201798656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABUWQAAgrCw.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2056767555076047338",
+        "created_at": "2026-05-19T16:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056767555076047338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2056739858505138313",
+              "start": 8,
+              "url": "https://t.co/5TOavXtiiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056767555076047338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056739858505138313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写了总比没写强 https://t.co/5TOavXtiiM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056739854206087168",
+            "3_2056739854201798656"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T14:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056739858505138313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854206087168",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            },
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854201798656",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056739858505138313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 34333,
+          "like_count": 646,
+          "quote_count": 24,
+          "reply_count": 26,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "中国最高人民法院近日发布文件，首次将「性取向、性别认同、性别表达」明确纳入歧视的法律保护范围。\n\n「法院对性少数群体的合法权益予以平等保护，包括不得侮辱与诽谤他人性倾向、性别认同与性别表达，不得就业中基于性倾向、性别认同与性别表达的歧视，保护不同性倾向、性别认同与性别表达的学生。」 https://t.co/TjLK0AuIQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "接受药物报告及相关投稿 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 减害信息！提问箱https://t.co/IJlCV8Ds6B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sacred14",
+                "end": 84,
+                "expanded_url": "https://ngl.link/sacred14",
+                "start": 61,
+                "url": "https://t.co/IJlCV8Ds6B"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "location": "天国",
+        "name": "椎名Shiina2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 76,
+          "like_count": 121,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "sacred1124",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 345,
+          "like_count": 402,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 568
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}
