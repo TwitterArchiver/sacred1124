@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T08:36:24",
+  "last_updated": "2026-07-12T08:36:56",
   "html": {
     "https://web.archive.org/web/20260513052952if_/https://twitter.com/sacred1124/status/2054433928245895495": {
       "status": "done",
@@ -1749,9 +1749,9 @@
       "referenced_by": [
         "20260513155101_twitter_com_sacred1124_status_2054590243249291701.json"
       ],
-      "last_updated": "2026-07-12T07:10:47",
+      "last_updated": "2026-07-12T08:36:39",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260513155101if_/https://pbs.twimg.com/profile_images/2048379432742871040/NoIzQc1y_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg": {
       "status": "done",
@@ -1850,13 +1850,13 @@
       "last_updated": "2026-07-12T07:10:45"
     },
     "https://pbs.twimg.com/profile_images/2048416546402574336/Jwc1h6VC_normal.png": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260516060546_twitter_com_sacred1124_status_2055530127170383876.json"
       ],
-      "last_updated": "2026-07-12T07:10:47",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260516060546if_/https://pbs.twimg.com/profile_images/2048416546402574336/Jwc1h6VC_normal.png",
-      "miss_count": 1
+      "last_updated": "2026-07-12T08:36:46",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516060546im_/https://pbs.twimg.com/profile_images/2048416546402574336/Jwc1h6VC_normal.png (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb2d7a0e720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2030963217573556224/6aahirpe_normal.jpg": {
       "status": "done",
@@ -1916,9 +1916,9 @@
         "20260516150027_twitter_com_sacred1124_status_2055664683504501080.json",
         "20260516150041_twitter_com_sacred1124_status_2055664741348229156.json"
       ],
-      "last_updated": "2026-07-12T07:10:47",
+      "last_updated": "2026-07-12T08:36:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260516150041if_/https://pbs.twimg.com/profile_images/2055329494656045056/RF3A5btB_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg": {
       "status": "done",
@@ -2042,13 +2042,13 @@
       "last_updated": "2026-07-12T07:10:45"
     },
     "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260519160252_twitter_com_sacred1124_status_2056767555076047338.json"
       ],
-      "last_updated": "2026-07-12T07:10:48",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260519160252if_/https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-07-12T08:36:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519160252im_/https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb2d6340e30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg": {
       "status": "done",
@@ -2065,14 +2065,14 @@
       "last_updated": "2026-07-12T07:10:45"
     },
     "https://pbs.twimg.com/profile_images/2056063659064135680/_iJBJOSG_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260519174325_twitter_com_sacred1124_status_2056792856870973612.json",
         "20260519180514_twitter_com_sacred1124_status_2056798347789471956.json"
       ],
-      "last_updated": "2026-07-12T07:10:47",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260519180514if_/https://pbs.twimg.com/profile_images/2056063659064135680/_iJBJOSG_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-07-12T08:36:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519180514im_/https://pbs.twimg.com/profile_images/2056063659064135680/_iJBJOSG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb2d631e510>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1958117503093161984/EtiSG1EE_normal.jpg": {
       "status": "done",
@@ -2324,9 +2324,9 @@
       "referenced_by": [
         "20260604030406_twitter_com_sacred1124_status_2062369777860153422.json"
       ],
-      "last_updated": "2026-07-12T07:10:45",
+      "last_updated": "2026-07-12T08:36:56",
       "last_reason": "无法识别 profile pid",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2060422952122978305/q2xZzfjI_normal.jpg": {
       "status": "done",
@@ -2538,11 +2538,11 @@
       "last_updated": "2026-07-12T07:10:45"
     },
     "https://pbs.twimg.com/profile_images/2071498345407987712/2slm7YfO_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260629075516_twitter_com_sacred1124_status_2071502746306629711.json"
       ],
-      "last_updated": "2026-07-12T07:10:48",
+      "last_updated": "2026-07-12T08:36:56",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629075516if_/https://pbs.twimg.com/profile_images/2071498345407987712/2slm7YfO_normal.jpg",
       "miss_count": 1
     },
@@ -2966,7 +2966,7 @@
       "last_updated": "2026-07-12T07:10:45"
     },
     "20260516060546_twitter_com_sacred1124_status_2055530127170383876.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2975,7 +2975,7 @@
           "https://pbs.twimg.com/profile_images/2048416546402574336/Jwc1h6VC_normal.png"
         ]
       },
-      "last_updated": "2026-07-12T07:10:47"
+      "last_updated": "2026-07-12T08:36:46"
     },
     "20260516065248_twitter_com_sacred1124_status_2055541961734647989.json": {
       "status": "done",
@@ -3438,7 +3438,7 @@
       "last_updated": "2026-07-12T07:10:45"
     },
     "20260519160252_twitter_com_sacred1124_status_2056767555076047338.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HIsCABVXsAA_NUi.jpg",
@@ -3450,7 +3450,7 @@
           "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T07:10:48"
+      "last_updated": "2026-07-12T08:36:53"
     },
     "20260519163624_twitter_com_sacred1124_status_2056775991968800886.json": {
       "status": "failed",
@@ -3488,7 +3488,7 @@
       "miss_count": 2
     },
     "20260519174325_twitter_com_sacred1124_status_2056792856870973612.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3497,10 +3497,10 @@
           "https://pbs.twimg.com/profile_images/2056063659064135680/_iJBJOSG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T07:10:47"
+      "last_updated": "2026-07-12T08:36:56"
     },
     "20260519180514_twitter_com_sacred1124_status_2056798347789471956.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -3509,7 +3509,7 @@
           "https://pbs.twimg.com/profile_images/2056063659064135680/_iJBJOSG_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T07:10:47"
+      "last_updated": "2026-07-12T08:36:56"
     },
     "20260519182039_twitter_com_sacred1124_status_2056802229257155066.json": {
       "status": "done",
