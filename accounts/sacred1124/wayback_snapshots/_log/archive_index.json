@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T08:36:09",
+  "last_updated": "2026-07-12T08:36:24",
   "html": {
     "https://web.archive.org/web/20260513052952if_/https://twitter.com/sacred1124/status/2054433928245895495": {
       "status": "done",
@@ -1563,9 +1563,9 @@
       "referenced_by": [
         "20260519164611_twitter_com_sacred1124_status_2056778453937217846.json"
       ],
-      "last_updated": "2026-07-12T08:30:04",
+      "last_updated": "2026-07-12T08:36:24",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260519164611/https://video.twimg.com/amplify_video/2056688375663382528/vid/avc1/720x1280/u7BszeINNfrsK30U.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2056688375667519488/vid/avc1/720x960/LClEWxvcBu7cYWm2.mp4": {
       "status": "done",
