@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-12T22:12:02",
+  "last_updated": "2026-10-12T22:12:16",
   "html": {
     "https://web.archive.org/web/20260513052952if_/https://twitter.com/sacred1124/status/2054433928245895495": {
       "status": "done",
@@ -2605,10 +2605,11 @@
       "last_updated": "2026-07-12T07:10:45"
     },
     "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20261009152147_twitter_com_sacred1124_status_2108578681702789336.json"
-      ]
+      ],
+      "last_updated": "2026-10-12T22:12:16"
     }
   },
   "media": {
@@ -5081,7 +5082,7 @@
       "last_updated": "2026-09-21T08:05:01"
     },
     "20261009152147_twitter_com_sacred1124_status_2108578681702789336.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -5090,7 +5091,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-12T22:11:58"
+      "last_updated": "2026-10-12T22:12:16"
     },
     "20261009152756_twitter_com_sacred1124_status_2108580225936482515.json": {
       "status": "done",
