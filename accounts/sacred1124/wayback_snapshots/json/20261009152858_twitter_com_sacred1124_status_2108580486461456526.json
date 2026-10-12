@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1902512265301258243",
+    "conversation_id": "2108580486461456526",
+    "created_at": "2026-10-09T15:28:58.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T16:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108580486461456526"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108580486461456526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只想安安静静的嗑药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902512265301258243",
+        "conversation_id": "2108580486461456526",
+        "created_at": "2026-10-09T15:28:58.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T16:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108580486461456526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108580486461456526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只想安安静静的嗑药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "description": "My life's the worst story told, I'll be this way 'til I'm old.\n分身：@Overdose_Rx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Overdose_Rx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMlkg"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2108580486461456526",
+        "name": "Shiina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902512265301258243/1778648731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190420056891392/ZTAVXIDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 107,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/bSzFJaMlkg",
+        "username": "sacred1124",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

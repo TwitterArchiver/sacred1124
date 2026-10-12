@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108081567029776384"
+      ],
+      "media_source_tweet_id": [
+        "2108081599099347200"
+      ]
+    },
+    "author_id": "1902512265301258243",
+    "conversation_id": "2108580225936482515",
+    "created_at": "2026-10-09T15:27:56.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T16:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108580225936482515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054196065172344832",
+          "start": 3,
+          "username": "GptRainy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sOzMavdvqt",
+          "end": 51,
+          "expanded_url": "https://x.com/GptRainy/status/2108081599099347200/photo/1",
+          "media_key": "3_2108081567029776384",
+          "start": 28,
+          "url": "https://t.co/sOzMavdvqt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108580225936482515",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108081567029776384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108081599099347200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GptRainy: 老毛严选：巴比妥和水合氯醛 https://t.co/sOzMavdvqt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_2108081567029776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUFpBCBb0AAYX2E.png",
+        "width": 1389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108081567029776384"
+          ],
+          "media_source_tweet_id": [
+            "2108081599099347200"
+          ]
+        },
+        "author_id": "1902512265301258243",
+        "conversation_id": "2108580225936482515",
+        "created_at": "2026-10-09T15:27:56.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T16:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108580225936482515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054196065172344832",
+              "start": 3,
+              "username": "GptRainy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOzMavdvqt",
+              "end": 51,
+              "expanded_url": "https://x.com/GptRainy/status/2108081599099347200/photo/1",
+              "media_key": "3_2108081567029776384",
+              "start": 28,
+              "url": "https://t.co/sOzMavdvqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108580225936482515",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108081567029776384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108081599099347200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GptRainy: 老毛严选：巴比妥和水合氯醛 https://t.co/sOzMavdvqt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108081567029776384"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2108081599099347200",
+        "created_at": "2026-10-08T06:26:34.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T07:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108081599099347200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOzMavdvqt",
+              "end": 37,
+              "expanded_url": "https://x.com/GptRainy/status/2108081599099347200/photo/1",
+              "media_key": "3_2108081567029776384",
+              "start": 14,
+              "url": "https://t.co/sOzMavdvqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108081599099347200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108081567029776384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2853,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "老毛严选：巴比妥和水合氯醛 https://t.co/sOzMavdvqt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-03-20T00:07:54.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "My life's the worst story told, I'll be this way 'til I'm old.\n分身：@Overdose_Rx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Overdose_Rx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/bSzFJaMlkg"
+              }
+            ]
+          }
+        },
+        "id": "1902512265301258243",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2108580225936482515",
+        "name": "Shiina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1902512265301258243/1778648731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068190420056891392/ZTAVXIDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 107,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/bSzFJaMlkg",
+        "username": "sacred1124",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "19 · t-girl · Indie LLM dev\n｜Proud Shandongese｜Overdoser｜Socialist｜Traveler｜Transit nerd｜Smoker｜VOCALOID｜Cat mom🐈｜🇵🇸🇺🇦｜Abundance for all. Accelerate.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/LS2oOiyMOR"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "is_identity_verified": false,
+        "location": "Shandong",
+        "most_recent_tweet_id": "2108571964168405453",
+        "name": "小雨🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "2107430899273150907",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054196065172344832/1778594652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1720,
+          "following_count": 970,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/LS2oOiyMOR",
+        "username": "GptRainy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
